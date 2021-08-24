@@ -71,7 +71,7 @@ def load_data(city, month, day):
 
     # Loading data for city
     df = pd.read_csv(CITY_DATA[city])
-    print('Processing Data...\n\n' + '-'*40)
+    print('Analyzing data...\n\n' + '-'*40)
 
     # Convert the Start Time column to datetime
     df['Start Time'] = pd.to_datetime(df['Start Time'])
