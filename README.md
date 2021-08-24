@@ -1,10 +1,7 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Udacity Data Science 3rd Project: Post your Work on GitHub
 
 ### Date created
-Include the date you created this project and README file.
-
-### Project Title
-Replace the Project Title
+This project has been created on: 2021-08-24
 
 ### Description
 Describe what your project is about and what it does
