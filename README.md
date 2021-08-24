@@ -1,4 +1,4 @@
-# Udacity Data Science 3rd Project: Post your Work on GitHub
+# Udacity Data Science 3rd Project: **Post your Work on GitHub**
 
 ### Date created
 This project has been created on: **2021-08-24**
